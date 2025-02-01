@@ -1,0 +1,6 @@
+﻿services:
+  offertory_api:
+    image: offertory_api
+    build:
+      context: .
+      dockerfile: Offertory_api/Dockerfile

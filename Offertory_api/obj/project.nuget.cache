@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMzp667JQyA=",
+  "success": true,
+  "projectFilePath": "/Users/vickyaruldoss/Documents/repo/c#_projests/Offertory_api/Offertory_api/Offertory_api.csproj",
+  "expectedPackageFiles": [
+    "/Users/vickyaruldoss/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/vickyaruldoss/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
