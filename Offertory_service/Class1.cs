@@ -1,5 +1,9 @@
 ﻿namespace Offertory_service;
 
-public class Class1
+public class Service1
 {
+    public string Test_fn()
+    {
+        return "this is a test";
+    }
 }
