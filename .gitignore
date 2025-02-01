@@ -21,6 +21,13 @@ build/
 */build/
 */[Bb]in/
 */[Oo]bj/
+
+Offertory_api/[Dd]ebug/
+Offertory_api/[Rr]elease/
+Offertory_api/x64/
+Offertory_api/build/
+Offertory_api/[Bb]in/
+Offertory_api/[Oo]bj/
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/*/build/
 
