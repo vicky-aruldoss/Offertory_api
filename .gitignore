@@ -36,8 +36,13 @@ Offertory_api/x64/
 Offertory_api/build/
 Offertory_api/[Bb]in/
 Offertory_api/[Oo]bj/
+
+Offertory_api/obj/Debug
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/*/build/
+
+*.AssemblyInfo.cs
+*AssemblyInfoInputs.cache
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
