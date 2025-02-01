@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Offertory_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca1c697d45b2d06eb49119317e7d5fa2bde0f8d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Offertory_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Offertory_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
