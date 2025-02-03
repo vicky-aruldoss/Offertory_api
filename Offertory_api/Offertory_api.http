@@ -3,4 +3,7 @@
 GET {{Offertory_api_HostAddress}}/weatherforecast/
 Accept: application/json
 
+GET {{Offertory_api_HostAddress}}/offering-details/
+Accept: application/json
+
 ###

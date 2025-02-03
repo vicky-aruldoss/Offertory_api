@@ -17,4 +17,15 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <None Update="Data\chritmas_offering.csv">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Offertory_service\Offertory_service.csproj" />
+      <ProjectReference Include="..\Offertory_Service_Contract\Offertory_Service_Contract.csproj" />
+    </ItemGroup>
+
 </Project>

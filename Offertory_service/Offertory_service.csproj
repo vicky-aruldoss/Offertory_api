@@ -6,4 +6,14 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Offertory_model\Offertory_model.csproj" />
+      <ProjectReference Include="..\Offertory_Service_Contract\Offertory_Service_Contract.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+      <PackageReference Include="SuperConvert" Version="1.0.4.9" />
+    </ItemGroup>
+
 </Project>

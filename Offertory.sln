@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Offertory_service", "Offert
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Offertory_tests", "Offertory_tests\Offertory_tests.csproj", "{B9FEDAE3-9B10-4F00-8FB2-5E3AEA589AE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Offertory_model", "Offertory_model\Offertory_model.csproj", "{2EA56204-D9BC-43E4-AAE6-CFBD35445DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Offertory_Service_Contract", "Offertory_Service_Contract\Offertory_Service_Contract.csproj", "{1B54355B-A99F-412E-BA2A-5686FC392B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,5 +33,13 @@ Global
 		{B9FEDAE3-9B10-4F00-8FB2-5E3AEA589AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9FEDAE3-9B10-4F00-8FB2-5E3AEA589AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9FEDAE3-9B10-4F00-8FB2-5E3AEA589AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA56204-D9BC-43E4-AAE6-CFBD35445DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA56204-D9BC-43E4-AAE6-CFBD35445DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA56204-D9BC-43E4-AAE6-CFBD35445DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA56204-D9BC-43E4-AAE6-CFBD35445DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B54355B-A99F-412E-BA2A-5686FC392B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B54355B-A99F-412E-BA2A-5686FC392B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B54355B-A99F-412E-BA2A-5686FC392B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B54355B-A99F-412E-BA2A-5686FC392B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
